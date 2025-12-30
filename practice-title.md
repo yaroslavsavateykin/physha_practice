@@ -1,6 +1,6 @@
 ---
 created: 2025-11-18T19:30
-updated: 2025-12-16T13:00
+updated: 2025-12-30T21:12
 latex_pdf: "[[practice-title.pdf]]"
 field: physical_chemistry
 compiled_to_latex_pdf: 2025-12-16T12:59
@@ -35,7 +35,7 @@ compiled_to_latex_pdf: 2025-12-16T12:59
             \begin{minipage}{0.5\textwidth}
                 \raggedleft
                 \textbf{Выполнил:} \\
-                студент 3 курса, группы 311 \\
+                студент 3 курса, 311 группы \\
                 Саватейкин Я.М. \\
                 \textbf{Преподаватель:} \\
                 доц., д.х.н. Голубина Е.В.\\
