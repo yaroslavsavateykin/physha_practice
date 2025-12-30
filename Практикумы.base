@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("Практикум")
+        - file.ext == "md"
+    order:
+      - file.name
+      - number
+      - field
+    sort:
+      - property: field
+        direction: ASC
+      - property: number
+        direction: ASC
+    columnSize:
+      file.name: 369
